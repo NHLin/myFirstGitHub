@@ -1,2 +1,3 @@
 # myFirstGitHub
 niehonglin_github
+今天是2015年11月11日，我有了自己的github仓库。很happy，以后会加入到github的大家庭，为github的发展贡献自己的一份力量，自己也会在这里不断地提升自己的个人能力。
